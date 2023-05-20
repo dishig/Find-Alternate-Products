@@ -5,4 +5,4 @@ For this solution, I have used `json` to work with JSON data and `requests` to m
 
     FindAlternateGroups() returns all the product alternate arrays having alternate options in size, print or color.
 
-    FindAlternateGroups_color() returns only those product alternate arrays that have options in color and print.
+    FindAlternateGroups_color() returns product alternate arrays only with color and print options.
